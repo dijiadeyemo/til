@@ -1,2 +1,3 @@
-# til
-today i learned
+# til: today i learned
+
+[Template](template.md)
