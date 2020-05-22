@@ -1,9 +1,8 @@
-Saga Microservices Pattern
+# Saga Microservices Pattern
 
 **Author** : Diji
 
 ## Notes
-
 Saga Pattern is a way of ensure ACID in a microservices system. It is a work around for one database per serivce pattern that microsevices use
 
 ### Two Approaches
