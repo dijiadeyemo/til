@@ -4,7 +4,7 @@
 
 ## Notes
 
-### Introduction
+### Introduction to FlexBox
 
 Flexbox is a CSS module and so it involves a whole set of properties that are meant to be applied on flex containers (parent element) and flex items (childrens).
 Until now, you had "block" and "inline" flow directions. Now flexbox introduce "flex-flow directions".
