@@ -36,7 +36,7 @@ Pure functions can be eaily optimised
 
 Caching of pure functions to improve performace
 
-#### testing
+#### Testing
 
 No setup and tear down is usually needed for testing functional code
 
